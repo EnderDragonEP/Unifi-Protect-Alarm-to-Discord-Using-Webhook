@@ -3,7 +3,9 @@
 > [name=John @ 崑山科技大學 光達實驗室 KSU Eilidar Lab][time=Thursday, September 26, 2024]
 ## Why?
 Because I want to receive notifications on my computer without using an Android emulator to install and run the Unifi Protect app.
+
 I spent all night researching this because my friend, who is ten times smarter than I am, keeps calling me "dumb," "lazy," and "useless" :D
+
 I hope this information provides what you need and saves you some sleep!
 ## How?
 We need to set up a "UniFi Protect to Discord webhook data conversion server" on a computer using Python to reroute the alert data to Discord.
