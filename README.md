@@ -27,7 +27,7 @@ We need to set up a "UniFi Protect to Discord webhook data conversion server" on
 - Open the Python file with your favorite text editor
 - Copy and paste the code below into the file
 
-```py=
+```python=
 from flask import Flask, request, jsonify
 import requests
 from datetime import datetime
